@@ -1,0 +1,33 @@
+{{- $background_img := resources.Get .Site.Params.backgroundImg -}}
+
+{{ $background_img200_jpg := $background_img.Fit "200x200 jpg" }}
+{{ $background_img400 := $background_img.Fit "400x400 webp q50 picture" }}
+{{ $background_img600 := $background_img.Fit "600x600 webp q50 picture" }}
+{{ $background_img900 := $background_img.Fit "900x900 webp q50 picture" }}
+{{ $background_img1200 := $background_img.Fit "1200x1200 webp q50 picture" }}
+
+<img id="head_background_img" srcset="
+                    {{ $background_img1200.RelPermalink }} 1200w,
+                    {{ $background_img900.RelPermalink }} 900w,
+                    {{ $background_img600.RelPermalink }} 600w,
+                    {{ $background_img400.RelPermalink }} 400w,
+                    " src="{{ $background_img200_jpg.RelPermalink }}" alt="background img" sizes="100vw" />
+
+<div class="splash-container">
+    <div class="splash">
+        {{- $logo_img := resources.Get .Site.Params.logo -}}
+        <img width="500" alt="Logo" class="pure-img-responsive" src="{{ $logo_img.RelPermalink }}">
+
+        <h1 class="splash-subhead">{{.Site.Title}}</h1>
+
+        <p class="splash-subhead">
+            <b>{{.Site.Params.subTitle}}</b>
+        </p>
+        <p>
+            <a href="{{.Site.Params.actionBtnLink}}" class="pure-button pure-button-primary"
+                title="{{ .Site.Params.actionBtnText }}">
+                <b>{{ .Site.Params.actionBtnText }}</b>
+            </a>
+        </p>
+    </div>
+</div>

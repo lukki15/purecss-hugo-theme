@@ -1,0 +1,11 @@
+<div id="footer" class="footer is-center">
+    <nav class="pure-menu pure-menu-horizontal">
+        <ul class="pure-menu-list">
+            {{ range .Site.Menus.footer }}
+            <li class="pure-menu-item">
+                <a href="{{.URL}}" class="pure-menu-link" title="{{.Name}}">{{.Name}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
+</div>

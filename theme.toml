@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "pure"
+license = "MIT"
+licenselink = "https://github.com/lukki15/purecss-hugo-theme/blob/main/LICENSE"
+description = "Hugo theme based on purecss landing page layout "
+homepage = "http://example.com/"
+tags = ["landingpage", "purecss", "personal", "company", "light", "responsive", "cssonly"]
+features = ["responsive", "cssonly"]
+min_version = "0.41.0"
+
+[author]
+  name = "lukki15"
+  homepage = "https://github.com/lukki15"
