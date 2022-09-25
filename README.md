@@ -25,18 +25,14 @@ The theme is based on the [purecss landing page example](https://purecss.io/layo
 
 Minimum Hugo Version: 0.83
 
-Run from the root of your Hugo site:
-
-```
-$ git clone https://github.com/lukki15/purecss-hugo-theme.git themes/purecss
-```
-
-Alternatively, you can include this repository as a [git submodule](https://git-scm.com/docs/gitsubmodules). This makes it easier to update this theme if you have your Hugo site in git as well:
-
-```
-$ git submodule init
-$ git submodule add https://github.com/lukki15/purecss-hugo-theme.git themes/purecss
-```
+1. Add the repository into your Hugo Project repository as a submodule,  
+`
+git submodule add https://github.com/lukki15/purecss-hugo-theme.git themes/purecss
+`
+1. Copy the `assets`, `content`, `static` folders and the `config.toml` files form the `exampleSite` directory and paste it on you Hugo Project repository/directory. From the site home directory:  
+`cp -a themes/purecss/exampleSite/* .`
+1. Build your site with `hugo serve` and see the result at `http://localhost:1313/`
+1. For production build with `hugo -D --minify`, and see the result in the `public` folder
 
 ## Issues
 
