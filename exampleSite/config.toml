@@ -1,5 +1,5 @@
-baseURL = '/'
-languageCode = 'en-us'
+baseURL = '/purecss-hugo-theme/'
+languageCode = 'en'
 title = 'PureCSS Hugo Theme'
 
 theme = 'purecss'

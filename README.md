@@ -3,7 +3,7 @@
 Hugo theme based on [purecss](https://purecss.io/).
 The theme is based on the [purecss landing page example](https://purecss.io/layouts/marketing/).
 
-[Live Demo](/#)
+[Live Demo](https://lukki15.github.io/purecss-hugo-theme/)
 
 ## Preview
 
