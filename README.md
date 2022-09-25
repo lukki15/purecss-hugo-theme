@@ -1,25 +1,25 @@
 # purecss Hugo theme
 
 Hugo theme based on [purecss](https://purecss.io/).
-The theme is based on the [purecss landing page example](https://purecss.io/layouts/marketing/),
+The theme is based on the [purecss landing page example](https://purecss.io/layouts/marketing/).
 
 [Live Demo](/#)
+
+## Preview
+
+![screenshot preview](./assets/img/screenshot_preview.png)
 
 ## Features
 
 - Responsive
-- mobile first
+- Mobile first
 - Multi-column layout
-- css only
-- make use of modern image formats: webp
-- optimized for speed and performance
-- big browser backward compatibility 
+- Css only
+- Make use of modern image formats: webp
+- Optimized for speed and performance
 - Built-in 404 page
-- automatically sitemap.xml generation
-
-## Preview
-
-TODO
+- Automatically sitemap.xml generation
+- Well formatted code.
 
 ## Get the theme
 
@@ -48,4 +48,7 @@ Contributions, issues, and feature requests are welcome! For major changes, plea
 
 ## License
 
-Licensed under [MIT](https://github.com/lukki15/purecss-hugo-theme/blob/main/LICENSE)
+The code is licensed under [MIT](https://github.com/lukki15/purecss-hugo-theme/blob/main/LICENSE)
+
+The LK logo image is copyrighted and used by permission for this project only.  
+All other images are licensed under public domain, more information [here](./exampleSite/content/images.md)
