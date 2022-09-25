@@ -1,0 +1,34 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'PureCSS Hugo Theme'
+
+theme = 'purecss'
+enableRobotsTXT = true
+
+[Params]
+  subTitle = 'my sub-title text'
+
+  facebook = '/#'
+
+  actionBtnLink = '/#contact'
+  actionBtnText = 'Contact'
+
+  backgroundImg = 'images/background/pexels-pixabay-416779.jpg'
+  logo = 'images/logo/LK_Logo_inverted.png'
+
+[Menu]
+[[menu.footer]]
+  identifier = 'site_notice'
+  name = 'Site Notice'
+  url = '/site_notice/'
+  weight = 10
+[[menu.footer]]
+  identifier= 'data_privacy_policy'
+  name = 'Data Privacy Policy'
+  url = '/data_privacy_policy/'
+  weight = 20
+[[menu.footer]]
+  identifier= 'images'
+  name = 'Image Sources'
+  url = '/images/'
+  weight = 30
