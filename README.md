@@ -48,3 +48,7 @@ The code is licensed under [MIT](https://github.com/lukki15/purecss-hugo-theme/b
 
 The LK logo image is copyrighted and used by permission for this project only.  
 All other images are licensed under public domain, more information [here](./exampleSite/content/images.md)
+
+## Performance
+
+![screenshot performance](./assets/img/screenshot_perfofmance.png)
