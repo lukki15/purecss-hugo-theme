@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/purecss-hugo-theme/categories/</loc>
+  </url><url>
+    <loc>/purecss-hugo-theme/data_privacy_policy/</loc>
+  </url><url>
+    <loc>/purecss-hugo-theme/</loc>
+  </url><url>
+    <loc>/purecss-hugo-theme/images/</loc>
+  </url><url>
+    <loc>/purecss-hugo-theme/site_notice/</loc>
+  </url><url>
+    <loc>/purecss-hugo-theme/tags/</loc>
+  </url>
+</urlset>

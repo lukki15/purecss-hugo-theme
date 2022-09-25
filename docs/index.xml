@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PureCSS Hugo Theme</title>
+    <link>/purecss-hugo-theme/</link>
+    <description>Recent content on PureCSS Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/purecss-hugo-theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Privacy Policy</title>
+      <link>/purecss-hugo-theme/data_privacy_policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/purecss-hugo-theme/data_privacy_policy/</guid>
+      <description>Thank you for your interest in our website and our services.
+The protection of your personal data is a great concern. We treat the data entrusted to us accordingly strictly confidential and handle it responsibly. We see this in accordance with the legal and contractual obligations, in particular due to the provisions of the applicable data protection laws, as a special duty of a web and Internet service provider.
+Therefore, in accordance with the relevant data protection regulations, namely in particular due to the General Data Protection Regulation, we inform you about the data processing, its purpose and your rights arising from it.</description>
+    </item>
+    
+    <item>
+      <title>Site Notice</title>
+      <link>/purecss-hugo-theme/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/purecss-hugo-theme/images/</guid>
+      <description>This template site uses images from the following sources
+Background: https://www.pexels.com/photo/adventure-alpine-alps-altitude-416779/ Avatars: https://thispersondoesnotexist.com/ Gallery: https://unsplash.com/photos/VWcPlbHglYc/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTI5NTI0&amp;amp;force=true&amp;amp;w=640 https://unsplash.com/photos/BlIhVfXbi9s/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8b2ZmaWNlfGVufDB8fHx8MTY2NDEwMTg0OA&amp;amp;force=true&amp;amp;w=640 https://unsplash.com/photos/eHD8Y1Znfpk/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8N3x8b2ZmaWNlfGVufDB8fHx8MTY2NDEwMTg0OA&amp;amp;force=true&amp;amp;w=640 https://unsplash.com/photos/p_kICQCOM4s/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OXx8b2ZmaWNlfGVufDB8fHx8MTY2NDEwMTg0OA&amp;amp;force=true&amp;amp;w=640 https://unsplash.com/photos/Hcfwew744z4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTJ8fG9mZmljZXxlbnwwfHx8fDE2NjQxMDE4NDg&amp;amp;force=true&amp;amp;w=640 https://unsplash.com/photos/DJ7bWa-Gwks/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTZ8fG9mZmljZXxlbnwwfHx8fDE2NjQxMDE4NDg&amp;amp;force=true&amp;amp;w=640 https://unsplash.com/photos/TpGIpUF67po/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MjN8fG9mZmljZXxlbnwwfHx8fDE2NjQxMTU1MjE&amp;amp;force=true&amp;amp;w=640 https://unsplash.com/photos/XLm6-fPwK5Q/download?force=true&amp;amp;w=640 </description>
+    </item>
+    
+    <item>
+      <title>Site Notice</title>
+      <link>/purecss-hugo-theme/site_notice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/purecss-hugo-theme/site_notice/</guid>
+      <description>We constantly update and check the contents of this website.
+Despite all care, data may have changed in the meantime.
+A liability or guarantee for the timeliness, accuracy and completeness of the information provided can therefore not be accepted.
+We are not responsible for the content of other websites that can be reached via links from our pages.
+In addition, we reserve the right to make changes or additions to the information provided.</description>
+    </item>
+    
+  </channel>
+</rss>
